@@ -13,7 +13,7 @@
 - Broadcast router
 - Scatter Gather
 - Consistent hashing router
-- Tail chopping router (randomly choose an actor and sends the message, after sometime, it send to another actor and so on.
+- Tail chopping router (randomly choose an actor and sends the message, after sometime it sends the same message to another actor
 
 
 
